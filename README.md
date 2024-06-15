@@ -1,7 +1,7 @@
 # 🌟 Selamat Datang di Profil GitHub Saya! 🌟
 
 ## 🚀 Tentang Saya
-Halo! Saya [Sabardi], Saya adalah mahasiswa Teknik Informatika. Sebagai junior web developer, saya memiliki semangat belajar yang tinggi dan suka menghadapi tantangan baru. Saya fokus pada teknologi web, mempelajari berbagai bahasa pemrograman dan framework untuk meningkatkan keterampilan saya. Saya senang mempelajari hal-hal baru, terlibat dalam pemecahan masalah, dan bersemangat berkompetisi. Saya siap berkontribusi dalam proyek menantang untuk mengembangkan karir saya. Impian saya adalah bekerja atau magang di perusahaan ternama sebelum lulus. Saya percaya diri bisa mencapai tujuan saya, meskipun terkadang khawatir tentang masa depan
+Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika. Sebagai junior web developer, saya memiliki semangat belajar yang tinggi dan suka menghadapi tantangan baru. Saya fokus pada teknologi web, mempelajari berbagai bahasa pemrograman dan framework untuk meningkatkan keterampilan saya. Saya senang mempelajari hal-hal baru, terlibat dalam pemecahan masalah, dan bersemangat berkompetisi. Saya siap berkontribusi dalam proyek menantang untuk mengembangkan karir saya. Impian saya adalah bekerja atau magang di perusahaan ternama sebelum lulus. Saya percaya diri bisa mencapai tujuan saya, meskipun terkadang khawatir tentang masa depan
 
 - 🌐 **Website**: [Sabardi.biz.id](https://sabardi.biz.id)
 - 📫 **Email**: [Sabardibahari@gmail.com](mailto:Sabardibahari@gmail.com)
