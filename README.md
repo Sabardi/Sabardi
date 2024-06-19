@@ -58,7 +58,7 @@ Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika. Sebagai junior web
 
 ## 📚 Sertifikasi 2022
 
-- [1000 start up digital]([https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view](https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view?usp=drive_link))
+- [1000 start up digital]([https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view/notfound](https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view?usp=drive_link))
 - [Balai Latihan Kerja (BLK) vidio editing](https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view/notfound)
   
 ## 🎯 Tujuan Karir
