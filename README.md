@@ -45,12 +45,22 @@ Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika. Sebagai junior web
 **Deskripsi**: Deskripsikan proyek ini dalam beberapa kalimat singkat.  
 **Link Proyek**: [GitHub Repository](https://github.com/yourusername/project2)
 
-## 📚 Sertifikasi
+## 📚 Sertifikasi 2024
 
-- [Petani Kode 1](https://example.com/certification1)
-- [Studi Independen 2](https://example.com/certification2)
-- [1000 startup digital](https://example.com/certification2)
+- [sertifikasi junior full stack web developer](https://example.com/certification2)
+- [Studi Independen batch 6](https://example.com/certification2)
+- [Dicoding (web dasar)]([https://example.com/certification2](https://www.dicoding.com/dicodingassets/coursecertificate/7cd4a2ac9a6dc5fa69a73ca7effde8ba6a6b7405/view))
+- [Coding subuh 2024](https://drive.google.com/file/d/1u8lhe6XjoPONpLu7lKtJtz_k5exSzmbH/view?usp=sharing)
 
+## 📚 Sertifikasi 2023
+
+- [-------]()
+
+## 📚 Sertifikasi 2022
+
+- [1000 start up digital]([https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view](https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view?usp=drive_link))
+- [Balai Latihan Kerja (BLK) vidio editing](https://drive.google.com/file/d/1IVxqt8yVuz5j3xSLH1rHG3U8DLM5Py9j/view/notfound)
+  
 ## 🎯 Tujuan Karir
 
 Saya selalu mencari peluang baru untuk belajar dan berkembang. Saat ini, saya tertarik untuk bergabung dengan tim yang inovatif dan bekerja pada proyek yang menantang di web dan mobile programing.
