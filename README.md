@@ -1,7 +1,7 @@
 # 🌟 Selamat Datang di Profil GitHub Saya! 🌟
 
 ## 🚀 Tentang Saya
-Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika. Sebagai junior web developer, saya memiliki semangat belajar yang tinggi dan suka menghadapi tantangan baru. Saya fokus pada teknologi web, mempelajari berbagai bahasa pemrograman dan framework untuk meningkatkan keterampilan saya. Saya senang mempelajari hal-hal baru, terlibat dalam pemecahan masalah, dan bersemangat berkompetisi. Saya siap berkontribusi dalam proyek menantang untuk mengembangkan karir saya. Impian saya adalah bekerja atau magang di perusahaan ternama sebelum lulus. Saya percaya diri bisa mencapai tujuan saya, meskipun terkadang khawatir tentang masa depan
+Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika dari Universitas Qamarul Huda Badarudin
 
 - 🌐 **Website**: [Sabardi.biz.id](https://sabardi.biz.id)
 - 📫 **Email**: [Sabardibahari@gmail.com](mailto:Sabardibahari@gmail.com)
@@ -10,20 +10,6 @@ Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika. Sebagai junior web
 - 📸 **Instagram**: [Sabardi_bajang_bahari](https://www.instagram.com/sabardi_bajang_bahari/)
 
 ## 💼 Pengalaman Kerja
-
-### [Nama Perusahaan 1]
-**Posisi**: [Sedang di cari]  
-**Periode**: [Bulan Tahun - Bulan Tahun]
-
-- ✨ Deskripsi pekerjaan dan pencapaian Anda di sini.
-- ✨ Deskripsi pekerjaan dan pencapaian Anda di sini.
-
-### [sedang di cari]
-**Posisi**: [Posisi Anda]  
-**Periode**: [Bulan Tahun - Bulan Tahun]
-
-- ✨ Deskripsi pekerjaan dan pencapaian Anda di sini.
-- ✨ Deskripsi pekerjaan dan pencapaian Anda di sini.
 
 ## 🛠️ Keahlian Teknis
 
@@ -36,14 +22,6 @@ Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika. Sebagai junior web
 ![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=Sabardi&show_icons=true&theme=radical)
 
 ## 🔥 Proyek Unggulan
-
-### [Nama Proyek 1]
-**Deskripsi**: Deskripsikan proyek ini dalam beberapa kalimat singkat.  
-**Link Proyek**: [GitHub Repository](https://github.com/yourusername/project1)
-
-### [Nama Proyek 2]
-**Deskripsi**: Deskripsikan proyek ini dalam beberapa kalimat singkat.  
-**Link Proyek**: [GitHub Repository](https://github.com/yourusername/project2)
 
 ## 📚 Sertifikasi 2024
 
